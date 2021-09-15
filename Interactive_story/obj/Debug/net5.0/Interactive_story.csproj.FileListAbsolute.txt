@@ -1,0 +1,16 @@
+C:\Users\palmer.samuel\Documents\NTI-Programmering\PRRPRR\Interactive_story\Interactive_story\bin\Debug\net5.0\Interactive_story.exe
+C:\Users\palmer.samuel\Documents\NTI-Programmering\PRRPRR\Interactive_story\Interactive_story\bin\Debug\net5.0\Interactive_story.deps.json
+C:\Users\palmer.samuel\Documents\NTI-Programmering\PRRPRR\Interactive_story\Interactive_story\bin\Debug\net5.0\Interactive_story.runtimeconfig.json
+C:\Users\palmer.samuel\Documents\NTI-Programmering\PRRPRR\Interactive_story\Interactive_story\bin\Debug\net5.0\Interactive_story.runtimeconfig.dev.json
+C:\Users\palmer.samuel\Documents\NTI-Programmering\PRRPRR\Interactive_story\Interactive_story\bin\Debug\net5.0\Interactive_story.dll
+C:\Users\palmer.samuel\Documents\NTI-Programmering\PRRPRR\Interactive_story\Interactive_story\bin\Debug\net5.0\ref\Interactive_story.dll
+C:\Users\palmer.samuel\Documents\NTI-Programmering\PRRPRR\Interactive_story\Interactive_story\bin\Debug\net5.0\Interactive_story.pdb
+C:\Users\palmer.samuel\Documents\NTI-Programmering\PRRPRR\Interactive_story\Interactive_story\obj\Debug\net5.0\Interactive_story.csproj.AssemblyReference.cache
+C:\Users\palmer.samuel\Documents\NTI-Programmering\PRRPRR\Interactive_story\Interactive_story\obj\Debug\net5.0\Interactive_story.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\palmer.samuel\Documents\NTI-Programmering\PRRPRR\Interactive_story\Interactive_story\obj\Debug\net5.0\Interactive_story.AssemblyInfoInputs.cache
+C:\Users\palmer.samuel\Documents\NTI-Programmering\PRRPRR\Interactive_story\Interactive_story\obj\Debug\net5.0\Interactive_story.AssemblyInfo.cs
+C:\Users\palmer.samuel\Documents\NTI-Programmering\PRRPRR\Interactive_story\Interactive_story\obj\Debug\net5.0\Interactive_story.csproj.CoreCompileInputs.cache
+C:\Users\palmer.samuel\Documents\NTI-Programmering\PRRPRR\Interactive_story\Interactive_story\obj\Debug\net5.0\Interactive_story.dll
+C:\Users\palmer.samuel\Documents\NTI-Programmering\PRRPRR\Interactive_story\Interactive_story\obj\Debug\net5.0\ref\Interactive_story.dll
+C:\Users\palmer.samuel\Documents\NTI-Programmering\PRRPRR\Interactive_story\Interactive_story\obj\Debug\net5.0\Interactive_story.pdb
+C:\Users\palmer.samuel\Documents\NTI-Programmering\PRRPRR\Interactive_story\Interactive_story\obj\Debug\net5.0\Interactive_story.genruntimeconfig.cache
