@@ -6,8 +6,7 @@ namespace Interactive_story
     {
         static void Main(string[] args)
         {
-
-            //Ett försök på Suderduper svåra :
+            //Ett försök på Suderduper svåra : glömde helt klasser XD. --Mitt försök på ett superduper svår, tror det här är svårare än klasser ändå
             Console.WriteLine("Hello and welcome to an interactive story!\nWhen there is 'Dark Gray' color you are supposed to press a key or type text!");
             Console.ForegroundColor = ConsoleColor.DarkGray;
             Console.WriteLine("Press any key to start!");
