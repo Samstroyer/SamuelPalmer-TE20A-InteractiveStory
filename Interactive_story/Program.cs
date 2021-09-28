@@ -43,7 +43,7 @@ namespace Interactive_story
                         Console.ForegroundColor = ConsoleColor.White;
                         temp = Console.ReadLine().ToLower();
                     }
-                    if (temp == "kitchen") //you chose to drik coffe
+                    if (temp == "kitchen") //you choose to drik coffe
                     {
                         kitchen("first");
                     }
